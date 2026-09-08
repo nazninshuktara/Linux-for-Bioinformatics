@@ -112,4 +112,4 @@ git clone https://github.com/nazninshuktara/Linux-for-Bioinformatics.git
 cd Linux-for-Bioinformatics
 ```
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/LICENSE) file for details.
