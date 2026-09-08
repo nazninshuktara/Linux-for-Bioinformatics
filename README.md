@@ -1,9 +1,73 @@
 # 🐧 Linux-for-Bioinformatics
+A working reference and self-study guide for Linux CLI, Bash scripting, Conda environment setup, and end-to-end Bulk RNA-seq analysis (Salmon, DESeq2, GO/KEGG/Reactome, GSEA).
+> Prepared by **Naznin**.
+---
 
-Self-study notes on Linux, Bash scripting, and R/Bioconductor tools for bioinformatics.
-> Prepared by Naznin.
+## 📖 Overview
+This repository serves as a personal knowledge base and practical guide for using Linux CLI, Bash automation, and R/Bioconductor environments for bioinformatics data analysis (e.g., RNA-seq, sequence analysis).
 
-## Contents
+---
+
+## 📌 Table of Contents
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [1. Linux Fundamentals](#1-linux-fundamentals)
+  - [2. Biological File Formats & QC](#2-biological-file-formats--qc)
+  - [3. Bash Scripting for Pipelines](#3-bash-scripting-for-pipelines)
+  - [4. Environment Management (Conda/Mamba)](#4-environment-management-condamamba)
+  - [5. RNA-seq Quantification (Salmon & tximport)](#5-rna-seq-quantification-salmon--tximport)
+  - [6. Differential Expression Analysis (DESeq2)](#6-differential-expression-analysis-deseq2)
+  - [7. Visualization & Pathway Enrichment](#7-visualization--pathway-enrichment)
+- [Repository Structure](#repository-structure)
+- [Quick Start](#quick-start)
+- [License](#license)
+
+---
+
+
+
+
+## 🛠️ Topics Covered
+
+### 🐧 1. Linux Basics
+- Directory navigation (`cd`, `ls`, `pwd`)
+- File manipulation (`mkdir`, `cp`, `mv`, `rm`)
+- File viewing & processing (`cat`, `head`, `tail`, `grep`, `awk`, `sed`)
+- File permissions & environment variables (`chmod`, `PATH`)
+
+### 📜 2. Bash Scripting for Bioinformatics
+- Shell script fundamentals (`#!/bin/bash`)
+- Loops and conditionals for batch processing
+- Writing automated workflows for raw sequencing data (.fastq / .fasta)
+
+### 🔬 3. Bioinformatics CLI Tools
+- Quality control: `FastQC`, `MultiQC`
+- Trimming & filtering: `Trimmomatic`, `fastp`
+- Alignment & SAM/BAM manipulation: `HISAT2`, `STAR`, `samtools`
+- Genomic intervals: `bedtools`
+
+### 📊 4. R & Bioconductor
+- Installing Bioconductor packages (`BiocManager`)
+- Differential expression analysis concepts (e.g., DESeq2)
+- Visualization using `ggplot2` and `pheatmap`
+
+---
+
+## 📁 Repository Structure
+```text
+.
+├── 01_Linux_Basics/
+├── 02_Bash_Scripting/
+├── 03_Bioinformatics_Tools/
+├── 04_R_Bioconductor/
+├── scripts/
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+
+## 📌 Table of Contents
 
 - [1. Introduction to Bioinformatics](docs/01-introduction.md)
 - [2. Linux Fundamentals](docs/02-linux-fundamentals.md)
