@@ -4,8 +4,8 @@ Self-study notes on Linux, Bash scripting, and R/Bioconductor tools for bioinfor
 ---
 
 ## 📖 Overview
-
 This repository serves as a personal knowledge base and practical guide for using Linux CLI, Bash automation, and R/Bioconductor environments for bioinformatics data analysis (e.g., RNA-seq, sequence analysis).
+
 ---
 
 ## 🛠️ Topics Covered
