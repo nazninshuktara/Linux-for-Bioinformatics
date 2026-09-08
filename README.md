@@ -99,14 +99,13 @@ topic covered.
 - [9. Visualization: PCA, Heatmap, Volcano, MA Plot](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/09-visualization.md)
 - [10. Functional & Pathway Enrichment](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/10-enrichment-analysis.md)
 - [11. Writing Up the Project](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/11-reporting.md)
-- [Appendix A — Master Command Cheat Sheet]https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/appendix-a-cheatsheet.md)
+- [Appendix A — Master Command Cheat Sheet](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/appendix-a-cheatsheet.md)
 - [Appendix B — Revision Questions](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/appendix-b-revision.md)
 
 ## 🚀 Quick Start
 To clone this repository locally:
-```bash
 git clone [https://github.com/nazninshuktara/Linux-for-Bioinformatics.git](https://github.com/nazninshuktara/Linux-for-Bioinformatics.git)
 cd Linux-for-Bioinformatics
-```
+
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
