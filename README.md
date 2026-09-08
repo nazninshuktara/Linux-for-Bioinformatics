@@ -104,8 +104,9 @@ topic covered.
 
 ## 🚀 Quick Start
 To clone this repository locally:
-git clone [https://github.com/nazninshuktara/Linux-for-Bioinformatics.git](https://github.com/nazninshuktara/Linux-for-Bioinformatics.git)
+```bash
+git clone https://github.com/nazninshuktara/Linux-for-Bioinformatics.git
 cd Linux-for-Bioinformatics
-
+```
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
