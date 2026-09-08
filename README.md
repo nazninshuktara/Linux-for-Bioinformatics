@@ -1,11 +1,7 @@
 # 🐧 Linux-for-Bioinformatics
 
 Self-study notes on Linux, Bash scripting, and R/Bioconductor tools for bioinformatics.
-
-Linux · Bash scripting · Conda ·
-Salmon/tximport · DESeq2 · GO/KEGG/Reactome/GSEA enrichment.
-
-Prepared by Naznin.
+> Prepared by Naznin.
 
 ## Contents
 
