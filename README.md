@@ -1,11 +1,6 @@
 # 🐧 Linux-for-Bioinformatics
-A working reference and self-study guide for Linux CLI, Bash scripting, Conda environment setup, and end-to-end Bulk RNA-seq analysis (Salmon, DESeq2, GO/KEGG/Reactome, GSEA).
+Self-study notes on Linux, Bash scripting, and R/Bioconductor tools for bioinformatics.
 > Prepared by **Naznin**.
----
-
-## 📖 Overview
-This repository serves as a personal knowledge base and practical guide for using Linux CLI, Bash automation, and R/Bioconductor environments for bioinformatics data analysis (e.g., RNA-seq, sequence analysis).
-
 ---
 
 ## 📌 Table of Contents
@@ -24,6 +19,10 @@ This repository serves as a personal knowledge base and practical guide for usin
 
 ---
 
+## 📖 Overview
+This repository serves as a personal knowledge base and practical guide for using Linux CLI, Bash automation, and R/Bioconductor environments for bioinformatics data analysis (e.g., RNA-seq, sequence analysis).
+
+---
 
 
 
