@@ -103,6 +103,9 @@ topic covered.
 - [Appendix B — Revision Questions](https://github.com/nazninshuktara/Linux-for-Bioinformatics/blob/main/docs/appendix-b-revision.md)
 
 ## 🚀 Quick Start
+
+Repository URL: [Linux-for-Bioinformatics](https://github.com/nazninshuktara/Linux-for-Bioinformatics)
+
 To clone this repository locally:
 ```bash
 git clone https://github.com/nazninshuktara/Linux-for-Bioinformatics.git
